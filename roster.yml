@@ -1,0 +1,10 @@
+---
+
+message: "Sai"
+  
+---
+
+spring:
+  profiles: cloud
+
+message: Sai Roster Cloud 
