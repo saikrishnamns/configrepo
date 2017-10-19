@@ -9,5 +9,5 @@ spring:
 message: Sai Roster Cloud
 eureka:
   instance:
-    hostname: ${vcap.application.roster.uris}
+    hostname: ${vcap.application.uris}
     port: 80
