@@ -6,4 +6,4 @@ info:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://admin:admin@eureka-nonconfining-preextinguishment.cfapps.io
+      defaultZone: http://admin:admin@eureka-nonconfining-preextinguishment.cfapps.io/eureka
