@@ -9,5 +9,5 @@ spring:
 message: "Sai Cloud"
 eureka:
   instance:
-    hostname: ${vcap.application.uris}
+    hostname: http://company-placable-lawyer.cfapps.io/
     port: 80
