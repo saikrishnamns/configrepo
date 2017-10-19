@@ -7,4 +7,4 @@ message: "Sai"
 spring:
   profiles: cloud
 
-message: Sai Cloud 
+message: "Sai Cloud"
