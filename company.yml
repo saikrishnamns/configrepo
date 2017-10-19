@@ -1,4 +1,10 @@
 ---
 
-info:
-  name: "CGI"
+message: "Sai"
+  
+---
+
+spring:
+  profiles: cloud
+
+message: Sai Cloud 
