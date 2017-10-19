@@ -6,5 +6,8 @@ message: "Sai"
 
 spring:
   profiles: cloud
-
-message: Sai Roster Cloud 
+message: Sai Roster Cloud
+eureka:
+  instance:
+    hostname: ${vcap.application.config-server.company.uris}
+    port: 80
