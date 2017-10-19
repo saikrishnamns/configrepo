@@ -7,7 +7,7 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://admin:admin@eureka-nonconfining-preextinguishment.cfapps.io/eureka
-      
+---
 spring:
   profiles: cloud      
 eureka:
